@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bulelatshulisi
-- 👀 I’m interested in AI and machine learning
+- 👀 I’m interested in backend development i.e Java, Spring Boot
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: bulelatshulisi@gmail.com
